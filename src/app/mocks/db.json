@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "id": "",
+      "title": "",
+      "publish_year": null,
+      "genre": "",
+      "publisher": "",
+      "pages": null,
+      "synopsis": "",
+      "autor_id": []
+    }
+  ],
+  "authors": [
+    {
+      "id": "",
+      "name": "",
+      "nationality": "",
+      "birth_date": ""
+    }
+  ],
+  "books_authors": [
+    {
+      "id": "",
+      "book_id": "",
+      "author_id": ""
+    }
+  ]
+}
