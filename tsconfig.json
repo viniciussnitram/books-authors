@@ -1,0 +1,20 @@
+{
+  "files": [],
+  "paths": {
+    "@views/*": [
+      "./src/views/*"
+    ],
+    "@app/*": [
+      "./src/app/*"
+    ]
+  },
+  "extends": "./tsconfig.paths.json",
+  "references": [
+    {
+      "path": "./tsconfig.app.json"
+    },
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ],
+}
