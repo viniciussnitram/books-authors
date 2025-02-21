@@ -1,14 +1,15 @@
 {
   "files": [],
-  "paths": {
-    "@views/*": [
-      "./src/views/*"
-    ],
-    "@app/*": [
-      "./src/app/*"
-    ]
+  "compilerOptions": {
+    "paths": {
+      "@views/*": [
+        "./src/views/*"
+      ],
+      "@app/*": [
+        "./src/app/*"
+      ]
+    },
   },
-  "extends": "./tsconfig.paths.json",
   "references": [
     {
       "path": "./tsconfig.app.json"
