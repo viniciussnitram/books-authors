@@ -3,27 +3,28 @@
     {
       "id": "",
       "title": "",
-      "publish_year": null,
+      "edition": 0,
+      "publishYear": 0,
       "genre": "",
       "publisher": "",
-      "pages": null,
+      "pages": 0,
       "synopsis": "",
-      "autor_id": []
+      "autorId": []
     }
   ],
   "authors": [
     {
       "id": "",
       "name": "",
-      "nationality": "",
-      "birth_date": ""
+      "biography": "",
+      "birthDate": ""
     }
   ],
-  "books_authors": [
+  "booksAuthors": [
     {
       "id": "",
-      "book_id": "",
-      "author_id": ""
+      "bookId": "",
+      "authorId": ""
     }
   ]
 }
