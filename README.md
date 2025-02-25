@@ -37,7 +37,7 @@ Abra o navegador e vá para: http://localhost:3000
 ## Rodando com Docker (Opcional)
 ### Utilizando Dockerfile
 
-1. Construa a imagem Docker:
+1. Construa a imagem Docker: Certifique-se de estar no diretório onde está o Dockerfile e execute o comando:
 ```bash
 docker build -t books-authors .
 ```
