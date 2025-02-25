@@ -39,10 +39,10 @@ Abra o navegador e vá para: http://localhost:3000
 
 1. Construa a imagem Docker:
 ```bash
-docker build -t nome-do-projeto .
+docker build -t books-authors .
 ```
 2.Execute o container:
 ```bash
-docker run -p 3000:3000 nome-do-projeto
+docker run -p 3000:3000 books-authors
 ```
 3.Acesse a aplicação em http://localhost:3000
