@@ -2,5 +2,5 @@ export interface IAuthor {
   id: string;
   name: string;
   biography: string;
-  birthDate: string;
+  bookId: string[];
 }
